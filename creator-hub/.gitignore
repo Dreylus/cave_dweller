@@ -1,0 +1,8 @@
+android/gen/
+android/obj/
+android/bin/
+android/assets/
+android/*.p12
+ios/build/
+ios/main.o
+ios/CreatorHub
